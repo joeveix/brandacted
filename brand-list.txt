@@ -1,0 +1,205 @@
+    // McDonald's
+	// KFC
+	// Burger King
+	// Wendy's
+	// Taco Bell
+	// Pizza Hut
+	// Denny's
+	// Starbucks
+	// Subway
+	// Jack in the Box
+	// Domino's
+	// Chick-fil-A
+	// Dunkin' Donuts
+	// Arby's
+	// Walmart
+	// Hardee's
+	// Microsoft
+	// Apple
+	// Google
+	// Coca-Cola
+	// Samsung
+	// Toyota
+	// General Electric
+	// IBM
+	// Facebook
+	// Disney
+	// AT&T
+	// Amazon
+	// Louis Vuitton
+	// Cisco	
+	// BMW
+	// Oracle
+	// Nike 
+	// Intel
+	// Verizon
+	// American Express 
+	// Honda
+	// Mercedes-Benz
+	// Budweiser
+	// Gillette
+	// Marlboro
+	// Pepsi
+	// Visa 
+	// Nescafe
+	// ESPN	
+	// H&M 
+	// L'Oréal
+	// Hewlett-Packard
+	// HSBC
+	// Home Depot
+	// Frito-Lay
+	// Doritos
+	// Audi
+	// UPS
+	// Ford
+	// Gucci
+	// Nestle
+	// Accenture
+	// Ikea
+	// Siemens
+	// Wells Fargo
+	// Fox
+	// Pampers
+	// Ebay
+	// Hermès International
+	// MasterCard
+	// Chase Bank
+	// Zara
+	// Kellogg's 
+	// Kraft
+	// Colgate
+	// Chevrolet
+	// Coach	
+	// Hyundai
+	// Rolex
+	// Lexus
+	// Volkswagen
+	// Santander
+	// John Deere
+	// Bank of America
+	// Canon
+	// Prada
+	// Nissan
+	// Red Bull
+	// Philips
+	// Porsche
+	// Sony
+	// FedEx
+	// Citi
+	// Boeing
+	// Adidas
+	// Chanel
+	// RBC
+	// Allianz
+	// Goldman Sachs
+	// Ralph Lauren
+	// Heineken	
+	// Exxon Mobil
+	// Target
+	// Panasonic
+	// Hershey 
+	// LEGO
+	// Lancome
+	// KIA Motors
+	// Sprite
+	// MTV
+	// Estee Lauder
+	// SpaceX
+	// Old Spice
+	// eat24	
+	// Staples
+	// Zappos
+	// Charmin
+	// Oreo	
+	// Popchips
+	// XBox
+	// JetBlue
+	// T-Mobile
+	// Newcastle Brown Ale			
+	// Allstate
+	// Lay's
+	// Universal Studios
+	// NBC
+	// ABC
+	// CBS 
+	// VH1
+	// Comedy Central
+	// Procter & Gamble	
+	// Skittles
+	// Delta
+	// Best Buy
+	// BlackBerry
+	// iphone
+	// Playstation
+	// Southwest Airlines	
+	// United Airlines
+	// Whole Foods
+	// GoPro
+	// Papa John's
+	// Tide
+	// godaddy
+	// Monster Energy
+	// Geico
+	// Victoria's Secret
+	// PayPal
+	// Lowe's
+	// Xerox
+	// J. Crew
+	// Kaplan
+	// Netflix
+    // Aflac
+	// Blue Cross
+	// Aetna
+	// Hulu
+	// Warby Parker
+	// Ray Ban
+	// JackThreads
+	// Nintendo
+	// Sega
+	// Chapstick
+	// Hot Pockets 
+	// Comcast
+	// Time Warner Cable
+	// Citizens Bank
+	// Wachovia
+	// Bud Light
+	// Michelob
+	// GMC
+	// TGI Fridays
+	// Ruby Tuesday
+	// Chipotle	
+	// BuzzFeed
+	// Capital One
+	// PNC Bank
+	// Shell Oil
+	// Chevron
+	// BP
+	// Aramco
+	// Applebees
+	// Panera Bread
+	// Red Lobster
+	// Dos Equis
+	// Modelo Especial 
+	// Stella Artois
+	// Bacardi
+	// Johnnie Walker
+	// Grey Goose
+	// Absolut
+	// Smirnoff
+	// Belvedere
+	// Corona
+	// Blue Moon
+	// Guinness
+	// Coors
+	// Molson
+	// Tesla Motors
+	// Volvo
+	// Subaru
+	// Cadillac
+	// Winston
+	// Camel
+	// Lucky Strike
+	// Newport
+	// Dell
+	// Axe Body Spray
