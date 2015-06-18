@@ -2,9 +2,7 @@
 
 This is a Google Chrome extension that redacts brand names.
 
-You can download it here: [Chrome Download Link]
-
-More info here: [D+T link]
+You can download it here: https://chrome.google.com/webstore/detail/brandacted/oaeccdidhldlcoepbmaohcdflaeaokjh
 
 Special thanks to the Redskin Web Skin: 
 http://redskins.solutions/
